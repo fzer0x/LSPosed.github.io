@@ -1,1 +1,1 @@
-// FlatEqualizerHook module code
+// Some real code for FlatEqualizerHook
