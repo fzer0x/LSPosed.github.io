@@ -1,0 +1,9 @@
+{
+  "name": "FlatEqualizerHook",
+  "description": "Hook for com.jazibkhan.equalizer",
+  "author": "fzer0x",
+  "repo_url": "https://github.com/fzer0x/flatequalizerhook",
+  "download_url": "https://github.com/fzer0x/flatequalizerhook/releases/latest",
+  "support_url": "https://github.com/fzer0x/flatequalizerhook/issues",
+  "min_lsposed_version": 93
+}
